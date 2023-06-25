@@ -1,0 +1,14 @@
+#!/bin/bash
+echo "ALX"
+^C
+
+
+
+root@b192e38a0b41:/alx-pre_course/0x01-git/bash# clear
+
+root@b192e38a0b41:/alx-pre_course/0x01-git/bash# cat > school
+#!/bin/bash
+echo "School"
+root@b192e38a0b41:/alx-pre_course/0x01-git/bash# git add .
+root@b192e38a0b41:/alx-pre_course/0x01-git/bash# git commit -mâ€œStarting to code today, so coolâ€'
+root@b192e38a0b41:/alx-pre_course/0x01-git/bash# git commit -m "Starting to code today, so cool"
